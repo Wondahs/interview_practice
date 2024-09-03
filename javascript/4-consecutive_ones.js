@@ -1,4 +1,4 @@
-//  4. Find the max count of consecutive 1’s in an array
+// 4. Find the max count of consecutive 1’s in an array
 const consecutiveOnes = (arr) => {
   let max = 0;
   for(let i = 0; i < arr.length; i++) {

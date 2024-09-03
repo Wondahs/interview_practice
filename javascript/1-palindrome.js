@@ -1,3 +1,4 @@
+// 1. How to check whether a string is a palindrome
 const isPalindrome = (string) => {
   strLen = string.length
 

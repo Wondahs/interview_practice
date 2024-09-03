@@ -1,4 +1,4 @@
-//  12. Write a JavaScript function to check if a given number is prime.
+// 12. Write a JavaScript function to check if a given number is prime.
 const isPrime = (n) => {
   const sqrt = n ** (1/2);
 

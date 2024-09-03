@@ -1,4 +1,4 @@
-//  14. Write a JavaScript function that returns the Fibonacci sequence up to a given number of terms.
+// 14. Write a JavaScript function that returns the Fibonacci sequence up to a given number of terms.
 const fibonacci = (n) => {
   fib = [0, 1]
   for (let i = 1; i < n; i++) {

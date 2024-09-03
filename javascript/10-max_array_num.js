@@ -1,4 +1,4 @@
-//  10. Write a JavaScript program to find the maximum number in an array.
+// 10. Write a JavaScript program to find the maximum number in an array.
 const maxArrayNum = (arr) => {
   max = -Infinity;
 

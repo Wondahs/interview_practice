@@ -1,4 +1,4 @@
-//  15. Given a string, write a javascript function to count the occurrences of each character in the string.
+// 15. Given a string, write a javascript function to count the occurrences of each character in the string.
 const countOccurrence = (str) => {
   const charCount = {};
 

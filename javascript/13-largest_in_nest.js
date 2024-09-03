@@ -1,5 +1,5 @@
 // 13. Write a JavaScript program to find the largest element in a nested array.
-//  This function uses recursion to check through all levels of nesting.
+// This function uses recursion to check through all levels of nesting.
 const largestInNest = (nestArr, largest = -Infinity) => {
   nestArr.forEach(element => {
     if (Array.isArray(element)) {
