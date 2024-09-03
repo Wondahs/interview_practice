@@ -11,7 +11,6 @@ Welcome to the **interview_practice** repository! This repository is designed to
   - [Languages](#languages)
   - [Contributing](#contributing)
   - [Future Plans](#future-plans)
-  - [License](#license)
 
 ## Overview
 
@@ -69,7 +68,3 @@ To contribute:
 - **Add Difficulty Levels**: Categorize questions by difficulty (Easy, Medium, Hard).
 - **Include Explanations**: Provide detailed explanations and time complexity analysis for each solution.
 - **Interactive Practice**: Integrate with online coding platforms for interactive problem-solving.
-
-## License
-
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code as long as proper attribution is given.
