@@ -1,0 +1,7 @@
+const descendingSort = require('../17-descending_sort');
+
+const arr = [5, 2, 8, 1, 3, 9];
+
+
+console.log('Original Array:', arr);
+console.log('Sorted Array:', descendingSort(arr));
